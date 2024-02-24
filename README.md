@@ -69,4 +69,4 @@ Contributions to the project are welcome! Please fork the repository and submit 
 
 ## License
 
-All rights reserved. Unauthorized use, modification, or distribution of this game is prohibited. For inquiries regarding licensing or use, please contact [Your Name] at [Your Email Address].
+All rights reserved. Unauthorized use, modification, or distribution of this game is prohibited. For inquiries regarding licensing or use, please contact Heath Snegirev at Heathsneggy@gmail.com.
